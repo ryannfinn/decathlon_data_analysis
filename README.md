@@ -13,9 +13,9 @@ conda install pandas
 conda install jupyter
 ```
 
-The steps proceeding to the result of the analysis are in the analysis.ipynb. This [README.md](http://README.md) file  provides a brief verbal description and explanation for the analysis. 
+The steps proceeding to the result of the analysis are in the analysis.ipynb. This [README.md](http://README.md) file provides a brief verbal description and explanation for the analysis. 
 
-The code has to be properly run with the 5 CSVs. They should be put in the folder called /dataset. 
+The code has to be properly run with the 5 CSVs. They should be put in a folder called /dataset. Please create this subfolder in the root directory and put the CSVs there.
 
 ## Objectives of the Study
 
