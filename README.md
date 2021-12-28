@@ -2,6 +2,8 @@
 
 ## Introduction
 
+My name is Ryan Ng. It is to sumbit the data analysis assignment for the Decathlon data analyst interview.
+
 The notebook has mainly utilised the Pandas library for the data analysis. Running the code below with a conda environment set-up should allow one to run the notebook smoothly.
 
 ```bash
